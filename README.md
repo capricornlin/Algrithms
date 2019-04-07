@@ -17,3 +17,7 @@
 - [ ] Week 5
 - [ ] Week 6
 
+
+### Booksite
+[Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/)
+
